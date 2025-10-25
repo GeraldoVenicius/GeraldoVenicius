@@ -46,7 +46,6 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
 
 ---
 
-## 🌐 Conecte-se comigo
 
 📍 Olinda - PE, Brasil  
 📧 [geraldovenicius41@gmail.com](mailto:geraldovenicius41@gmail.com)  
