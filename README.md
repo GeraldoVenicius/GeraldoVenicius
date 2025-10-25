@@ -42,13 +42,12 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
   <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius42994&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 </p>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-📍 Olinda - PE, Brasil  
-📧 [geraldovenicius41@gmail.com](mailto:geraldovenicius41@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/geraldo-venicius-5aba33340/)  
-💻 [GitHub](https://github.com/vinicius42994)
+| 📍 Localização | 📧 E-mail | 💼 LinkedIn | 💻 GitHub |
+|----------------|-----------|-------------|-----------|
+| Olinda - PE, Brasil | [![Gmail](https://img.icons8.com/color/24/null/gmail.png)](mailto:geraldovenicius41@gmail.com) | [![LinkedIn](https://img.icons8.com/color/24/null/linkedin.png)](https://www.linkedin.com/in/geraldo-venicius-5aba33340/) | [![GitHub](https://img.icons8.com/material-outlined/24/null/github.png)](https://github.com/vinicius42994) |
