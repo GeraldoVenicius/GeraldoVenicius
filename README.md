@@ -48,6 +48,7 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
 
 ## 🌐 Conecte-se comigo
 
-| 📍 Localização | 📧 E-mail | 💼 LinkedIn | 💻 GitHub |
-|----------------|-----------|-------------|-----------|
-| Olinda - PE, Brasil | [![Gmail](https://img.icons8.com/color/24/null/gmail.png)](mailto:geraldovenicius41@gmail.com) | [![LinkedIn](https://img.icons8.com/color/24/null/linkedin.png)](https://www.linkedin.com/in/geraldo-venicius-5aba33340/) | [![GitHub](https://img.icons8.com/material-outlined/24/null/github.png)](https://github.com/vinicius42994) |
+📍 Olinda - PE, Brasil  
+📧 [geraldovenicius41@gmail.com](mailto:geraldovenicius41@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/geraldo-venicius-5aba33340/)  
+💻 [GitHub](https://github.com/vinicius42994)
