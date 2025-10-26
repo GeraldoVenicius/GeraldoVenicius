@@ -35,7 +35,7 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
 
 ---
 
-## 📊 Estatísticas do GitHub de Venicius
+## 📊 Estatísticas 
 
 <p>
   <img align="left" alt="GitHub Stats" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=GeraldoVenicius&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
