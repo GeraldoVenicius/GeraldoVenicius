@@ -37,17 +37,11 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
 
 ## 📊 Estatísticas  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&width=435&lines=📊+Estatísticas+do+GitHub+de+Venicius)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=📈+Minhas+estatísticas+no+GitHub)](https://git.io/typing-svg)
 
 <p align="center">
   <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoVenicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFAA&width=435&lines=🔥+Evoluindo+a+cada+commit!;🚀+Construindo+minha+trajetória+na+TI!)](https://git.io/typing-svg)
 
 ---
 
