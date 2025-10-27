@@ -37,10 +37,9 @@ Tornar-me um **Desenvolvedor Back-End** preparado para criar sistemas eficientes
 
 ## 📊 Estatísticas  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=📈+Minhas+estatísticas+no+GitHub)](https://git.io/typing-svg)
-
 <p align="center">
-  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoVenicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoVenicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeraldoVenicius&show_icons=true&theme=tokyonight&custom_title=Estatísticas+Gerais" />
 </p>
 
 ---
