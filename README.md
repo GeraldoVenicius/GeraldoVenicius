@@ -3,7 +3,7 @@
 **Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas**
 
 Olá! Sou Geraldo Venicius, apaixonado por tecnologia e pelo universo da programação.  
-Atualmente curso Análise e Desenvolvimento de Sistemas na **ESUDA**, onde estou fortalecendo minha base em lógica de programação, banco de dados e desenvolvimento de sistemas.
+Atualmente curso Análise e Desenvolvimento de Sistemas na **UNIBRA**, onde estou fortalecendo minha base em lógica de programação, banco de dados e desenvolvimento de sistemas.
 
 ---
 
